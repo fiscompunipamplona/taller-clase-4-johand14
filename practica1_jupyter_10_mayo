@@ -1,0 +1,494 @@
+    1  python --V
+    2  python -v
+    3  python --V
+    4  python -V
+    5  python3 -V
+    6  python
+    7  python --V
+    8  sudo apt-get update
+    9  git:
+   10  sudo apt-get install git
+   11  git config --global user.name "lilomz"
+   12  git config -- global user.email lindamoreno896@gmail.com
+   13  git config --global user.email lindamoreno896@gmail.com
+   14  git --help
+   15  git init Mytest
+   16  cd Mytest
+   17  gedit archivo1
+   18  gedit archivo2
+   19  git add archivo1
+   20  git add archivo2
+   21  git remote add origin https://github.com/lilomz/Mytest.git
+   22  git push origin master
+   23  git remote add origin https://github.com/lilomz/Mytest.git
+   24  git push origin master
+   25  git commit -m "test"
+   26  git push origin master
+   27  git remote add origin https://github.com/lilomz/Mytest.git
+   28  git commit -m "test"
+   29  git push origin master
+   30  cd ..
+   31  git remote add origin https://github.com/lilomz/Mytest.git
+   32  ls
+   33  git init Rep1
+   34  cd Rep1
+   35  git add archivo1
+   36  getit arch1
+   37  gedit arch1
+   38  gedit arch2
+   39  git add arch1
+   40  git add arch2
+   41  git commit -m "msj"
+   42  git remote add origin https://github.com/lilomz/Rep1.git
+   43  git push origin master
+   44  git remote add origin https://github.com/lilomz/Rep1.git
+   45  git push origin master
+   46  git remote add origin https://github.com/lilomz/Rep1.git
+   47  git push origin master
+   48  sudo apt-get update
+   49  python
+   50  git
+   51  vim
+   52  gnuplot
+   53  jupyter notebook
+   54  hostnamectl
+   55  passwd
+   56  ssh
+   57  bash
+   58  hash
+   59  cd/
+   60  cd /
+   61  cd7
+   62  cd/
+   63  cd
+   64  cd/
+   65  cd
+   66  cd /
+   67  ls
+   68  cd
+   69  ls
+   70  cd Do
+   71  cd/ Documentos/
+   72  cd Documentos/ls
+   73  cd Documentos/
+   74  ls
+   75  cd Documentos ls
+   76  ls /tec/
+   77  ls / etc /
+   78  ls/etc/
+   79  ls /etc/
+   80  ls /etc/a*
+   81  ls /etc/*a
+   82  ls /etc/*a*
+   83  pwd
+   84  mkdirlaura
+   85  mkdir<laura>
+   86  ls /home/l*
+   87  cd <laura>
+   88  cd laura
+   89  cd
+   90  vi
+   91  vi laura
+   92  ls
+   93  cd
+   94  ls
+   95  ls a*
+   96  lsa*
+   97  ls a*
+   98  ls *a*
+   99  ls a*d*
+  100  ls -l
+  101  ls -lh
+  102  mkdir osmar
+  103  ls
+  104  rmdir osmar
+  105  ls
+  106  mkdir osmar
+  107  ls}
+  108  ls
+  109  cd
+  110  cat
+  111  ls
+  112  cat laura
+  113  head laura
+  114  head -2
+  115  head -2 laura
+  116  tail laura
+  117  tail -3 laura
+  118  tail -1 laura
+  119  vim laura
+  120  sudo apt install vim vim-gnome
+  121  vim laura
+  122  vim
+  123  vim ogils
+  124  cd
+  125  cp ogils documento
+  126  ls documento
+  127  cp ogils Documento
+  128  ls Documento
+  129  cp ogils Documentos
+  130  ls Documentos
+  131  cp Documentos/nombre nombrecopy
+  132  cd
+  133  cp Documentos/ogils nombrecopy
+  134  ls
+  135  cp Documentos/ogils ogilscopy
+  136  ls
+  137  rm nombrecopy
+  138  ls
+  139  rm -i ogils
+  140  for i in {1..10 };do echo $RANDOM done 
+  141  for i in {1..10 };do echo $RANDOM; done 
+  142  for i in {1..10};do echo $RANDOM; done 
+  143  for i in $(seq 1 10);do echo $i; done 
+  144  for i in $(seq 1 2 10);do echo $i; done 
+  145  vim cuadra.sh
+  146  chmod x cuadra.sh
+  147  chmod +x cuadra.sh
+  148  ./cuadra.sh
+  149  ./cuadra.sh >salida.dat
+  150  ls
+  151  ls salida
+  152  cat salida.dat
+  153  gnuplot
+  154  sudo apt install gnuplot5-x11
+  155  gnuplot
+  156  history >kk historia
+  157  history >kk ogils
+  158  history >kk
+  159  ls
+  160  git clone https://github.com/fiscompunipamplona/unid2_introPython.git
+  161  ls
+  162  vim unid2_introPython
+  163  git clone https://github.com/fiscompunipamplona/unid2_introPython.git
+  164  ls
+  165  ls unid2_introPython
+  166  gvfs-open README.md
+  167  gvfs-open unid2_introPython
+  168  ld
+  169  ls
+  170  cd ../clases/
+  171  cd ../codes/
+  172  cd ..
+  173  ls
+  174  ls unid2_introPython
+  175  ls
+  176  cd usuario
+  177  ls
+  178  cd unid2_introPython
+  179  ls
+  180  mkdir codes
+  181  ls codes
+  182  cd codes
+  183  vim variables.py
+  184  python3.5 variables.py
+  185  vim variables
+  186  python3.5 variables.py
+  187  vim variables
+  188  ls
+  189  mv variables variables.py 
+  190  vim variables.py 
+  191  python3.5 variables.py 
+  192  vim variables.py 
+  193  python3.5 variables.py 
+  194  vim variables.py 
+  195  python3.5 variables.py 
+  196  vim variables.py 
+  197  python3.5 variables.py 
+  198  viw variables.py 
+  199  vim variables.py 
+  200  python3.5 variables.py 
+  201  vim variables.py 
+  202  python3.5 variables.py 
+  203  vim variables.py 
+  204  python3.5 variables.py 
+  205  vim variables.py 
+  206  python3.5 variables.py 
+  207  vim variables.py 
+  208  python3.5 variables.py 
+  209  vim variables.py 
+  210  python3.5 variables.py 
+  211  vim variables.py 
+  212  python3.5 variables.py 
+  213  vim variables.py 
+  214  python3.5 variables.py 
+  215  vim variables.py 
+  216  python3.5 variables.py 
+  217  vim variables.py 
+  218  python3.5 variables.py 
+  219  vim variables.py 
+  220  python3.5 variables.py 
+  221  vim variables.py 
+  222  python3.5 variables.py 
+  223  vim variables.py 
+  224  python3.5 variables.py 
+  225  vim variables.py 
+  226  python3.5 variables.py 
+  227  vim variables.py 
+  228  python3.5 variables.py 
+  229  vim variables.py 
+  230  python3.5 variables.py 
+  231  vim variables.py 
+  232  python3.5 variables.py 
+  233  vim variables.py 
+  234  python3.5 variables.py 
+  235  vim variables.py 
+  236  python3.5 variables.py 
+  237  vim variables.py 
+  238  python3.5 variables.py 
+  239  vim variables.py 
+  240  python3.5 variables.py 
+  241  vim variables.py 
+  242  python3.5 variables.py 
+  243  vim variables.py 
+  244  python3.5 variables.py 
+  245  vim variables.py 
+  246  python3.5 variables.py 
+  247  vim variables.py 
+  248  python3.5 variables.py 
+  249  vim variables.py 
+  250  python3.5 variables.py 
+  251  vim variables.py 
+  252  python3.5 variables.py 
+  253  vim test.py
+  254  vim ubu
+  255  ls
+  256  find . -iname "*ubuntizar*"
+  257  ls
+  258  ls /media/usuario/MAURICIO/
+  259  cp /media/usuario/MAURICIO/ubuntizar.sh .
+  260  vim ubuntizar.sh 
+  261  sudo apt install python3-numpy python3-scipy ipython3 python3-matplotlib python3-simpy
+  262  sudo apt install openssh-server vim libreadline6 libreadline6-dev ntp xorg xorg-dev libusb-dev cc1111
+  263  sudo apt update
+  264  sudo apt update && sudo apt dist-upgrade
+  265  sudo apt install gdebi
+  266  sudo apt install python3-numpy python3-scipy ipython3 python3-matplotlib python3-simpy
+  267  sudo apt install openssh-server vim libreadline6 libreadline6-dev ntp xorg xorg-dev libusb-dev cc1111
+  268  sudo apt install m4 automake autoconf gnu-standards autotools-dev autoconf-archive automake cvs subversion git mercurial manpages-dev gfortran build-essential gsl-bin libgd2-xpm-dev fort77 cmake rar libx11-dev rsync screen htop xclip dos2unix vpnci nmap pdfshuffler pdfsam
+  269  sudo apt install m4 automake autoconf gnu-standards autotools-dev autoconf-archive automake cvs subversion git mercurial manpages-dev gfortran build-essential gsl-bin libgd2-xpm-dev fort77 cmake rar libx11-dev rsync screen htop xclip dos2unix nmap pdfshuffler pdfsam
+  270  sudo apt install python-numpy python-scipy ipython ipython-notebook python-matplotlib python-simpy python-simpy-gui imagemagick gnuplot-x11 astyle pdl
+  271  sudo apt install hdf4-tools hdf5-tools libcfitsio-bin libcfitsio-dev libhdf5-dev libhdf4-dev pandoc
+  272  sudo add-apt-repository ppa:chronitis/jupyter
+  273  sudo apt update
+  274  sudo apt install python3-numpy python3-scipy ipython3 python3-matplotlib python3-simpy
+  275  sudo apt install jupyter-client jupyter-console jupyter-nbconvert jupyter-notebook jupyter-sphinx-theme-common
+  276  jupyter notebook
+  277  ls
+  278  cd codes
+  279  ls
+  280  cd codes
+  281  vim importarpaq.py
+  282  python3.5 importarpaq.py 
+  283  vim importarpaq.py
+  284  python3.5 importarpaq.py 
+  285  vim importarpaq.py
+  286  python3.5 importarpaq.py 
+  287  vim
+  288  vim importarpaq.py
+  289  python3.5 importarpaq.py 
+  290  vim importarpaq.py
+  291  python3.5 importarpaq.py 
+  292  vim importarpaq.py
+  293  python3.5 importarpaq.py 
+  294  -
+  295  vim importarpaq.py
+  296  vim transfcooracart.py
+  297  python3.5 importarpaq.py 
+  298  python3.5 transfcooracart.py 
+  299  vim transfcooracart.py
+  300  python3.5 transfcooracart.py 
+  301  vim transfcooracart.py
+  302  python3.5 transfcooracart.py 
+  303  vim transfcooracart.py
+  304  python3.5 transfcooracart.py 
+  305  vim leykeple.py
+  306  python3.5 leykeple.py 
+  307  vim leykeple.py
+  308  python3.5 leykeple.py 
+  309  vim leykeple.py
+  310  python3.5 leykeple.py 
+  311  vim leykeple.py
+  312  vim condicionales.py
+  313  vim condicionales.py
+  314  python3.5 whilebreak.py 
+  315  vim whilebreak.py 
+  316  python3.5 whilebreak.py 
+  317  vim whilebreak.py 
+  318  python3.5 whilebreak.py 
+  319  vim whilebreak.py 
+  320  python3.5 whilebreak.py 
+  321  vim whilebreak.py 
+  322  python3.5 whilebreak.py 
+  323  vim whilebreak.py 
+  324  python3.5 whilebreak.py 
+  325  vim whilebreak.py 
+  326  python3.5 whilebreak.py 
+  327  vim whilebreak.py 
+  328  python3.5 whilebreak.py 
+  329  vim impar.py
+  330  vim whilebreak.py 
+  331  python3.5 impar.py 
+  332  vim impar.py
+  333  python3.5 impar.py 
+  334  vim fibonacci.py
+  335  python3.5 fibonacci.py 
+  336  vim fibonacci.py
+  337  python3.5 fibonacci.py 
+  338  vim fibonacci.py
+  339  python3.5 fibonacci.py 
+  340  vim fibonacci.py
+  341  vim clase.py
+  342  python 3.5 clase.py
+  343  python3.5 clase.py
+  344  python 3.5 clase.py
+  345  vim clase.py
+  346  python3.5 clase.py
+  347  vim clase.py
+  348  python3.5 clase.py
+  349  vim clase.py
+  350  python3.5 clase.py
+  351  vim clase.py
+  352  python3.5 clase.py
+  353  vim clase.py
+  354  python3.5 clase.py
+  355  vim clase.py
+  356  python3.5 clase.py
+  357  vim clase.py
+  358  python3.5 clase.py
+  359  vim raiz.py
+  360  python3.5 raiz.py
+  361  vim raiz.py
+  362  python3.5 raiz.py
+  363  vim raiz.py
+  364  python3.5 raiz.py
+  365  vim raiz.py
+  366  python3.5 raiz.py
+  367  vim raiz.py
+  368  python3.5 raiz.py
+  369  vim raiz.py
+  370  python3.5 raiz.py
+  371  vim raiz.py
+  372  python3.5 raiz.py
+  373  vim raiz.py
+  374  python3.5 raiz.py
+  375  vim raiz.py
+  376  python3.5 raiz.py
+  377  vim raiz.py
+  378  vim arreglos.py
+  379  python3.5 arreglos.py
+  380  vim arreglos.py
+  381  python3.5 arreglos.py
+  382  vim arreglos.py
+  383  python3.5 arreglos.py
+  384  vim arreglos.py
+  385  python3.5 arreglos.py
+  386  vim arreglos.py
+  387  python3.5 arreglos.py
+  388  vim arreglos.py
+  389  python3.5 arreglos.py
+  390  vim arreglos.py
+  391  python3.5 arreglos.py
+  392  vim arreglos.py
+  393  python3.5 arreglos.py
+  394  vim arreglos.py
+  395  python3.5 arreglos.py
+  396  vim arreglos.py
+  397  python3.5 arreglos.py
+  398  vim arreglos.py
+  399  vim matriz.py
+  400  vim mat.txt
+  401  vim matriz.py
+  402  vim mat.txt
+  403  vim matriz.py
+  404  python3.5 matriz.py
+  405  vim matriz.py
+  406  python3.5 matriz.py
+  407  cd
+  408  cd clasess/
+  409  ls
+  410  vim mat.txt
+  411  python3.5 matriz.py
+  412  vim esvec.py
+  413  python3.5 esvec.py
+  414  vim esvec.py
+  415  python3.5 esvec.py
+  416  vim esvec.py
+  417  vim arre.py
+  418  python3.5 arre.py
+  419  vim m.py
+  420  python3.5 m.py
+  421  vim m.py
+  422  python3.5 m.py
+  423  vim m.py
+  424  python3.5 m.py
+  425  vim m.py
+  426  python3.5 m.py
+  427  vim m.py
+  428  python3.5 m.py
+  429  vim a.py
+  430  python3.5 a.py
+  431  vim a.py
+  432  python3.5 a.py
+  433  vim a.py
+  434  python3.5 a.py
+  435  vim r.py
+  436  python3.5 r.py
+  437  vim r.py
+  438  python3.5 r.py
+  439  vim r.py
+  440  python3.5 r.py
+  441  vim r.py
+  442  python3.5 r.py
+  443  vim r.py
+  444  python3.5 r.py
+  445  vim r.py
+  446  python3.5 r.py
+  447  vim r.py
+  448  python3.5 r.py
+  449  vim r.py
+  450  python3.5 r.py
+  451  vim r.py
+  452  python3.5 r.py
+  453  vim r.py
+  454  python3.5 r.py
+  455  vim r.py
+  456  python3.5 r.py
+  457  vim r.py
+  458  python3.5 r.py
+  459  vim r.py
+  460  python3.5 r.py
+  461  vim r.py
+  462  python3.5 r.py
+  463  vim r.py
+  464  vim for.py
+  465  python3.5 for.py
+  466  vim for.py
+  467  vim for2.py
+  468  python3.5 for2.py
+  469  vim for2.py
+  470  python3.5 for2.py
+  471  vim for2.py
+  472  python3.5 for2.py
+  473  vim for2.py
+  474  cd 
+  475  clase
+  476  ls
+  477  cd clase10_mayo/
+  478  ls
+  479  clone https://github.com/fiscompunipamplona/taller-clase-4-johand14.git
+  480  git clone https://github.com/fiscompunipamplona/taller-clase-4-johand14.git
+  481  ls
+  482  cd 
+  483  cd clase10_mayo/
+  484  cd
+  485  ls
+  486  cd clase10_mayo/
+  487  ls
+  488  cd taller-clase-4-johand14/
+  489  git clone https://github.com/fiscompunipamplona/taller-clase-4-johand14.git
+  490  jupyter notebook
+  491  git add *
+  492  git commit -m "practica1_jupyter"
+  493  git push
+  494  history > practica1_jupyter_10_mayo
